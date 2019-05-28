@@ -44,4 +44,4 @@ Golang学习的笔记和分享
 
 - 邮箱：EscAlice@foxmail.com
 - QQ: 742642742
-- Github: @EscAlice
+- Github: <https://github.com/EscAlice>
