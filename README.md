@@ -2,9 +2,7 @@
 
 Golang学习的笔记和分享
 
-[golang随记]: https://github.com/EscAlice/Golang-/blob/master/Golang%E9%9A%8F%E8%AE%B0.md
-
-
+[golang随记]+([https://github.com/EscAlice/Golang-/blob/master/Golang%E9%9A%8F%E8%AE%B0.md](https://github.com/EscAlice/Golang-/blob/master/Golang随记.md))
 
 
 
