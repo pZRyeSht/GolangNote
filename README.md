@@ -43,5 +43,11 @@ Golang学习的笔记和分享
 ## 联系方式
 
 - 邮箱：EscAlice@foxmail.com
+
 - QQ: 742642742
-- Github: <https://github.com/EscAlice>
+
+- Github: 
+
+  [@EscAlice]: <https://github.com/EscAlice>	"@EscAlice"
+
+  
