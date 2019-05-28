@@ -57,8 +57,8 @@ func PathExist(path string)(bool, error) {
 
 ```go
 var chan1 chan int 可读可写
-	var chan2 chan<- int 只写
-	var chan3 <-chan int 只读
+var chan2 chan<- int 只写
+var chan3 <-chan int 只读
 ```
 
 15、如果协程出现panic，可以使用recover来捕获panic进行处理，主线程不受影响，可以继续运行
