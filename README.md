@@ -23,7 +23,7 @@ Golang学习的笔记和分享
 |     尚硅谷Go语言核心编程教程     | https://pan.baidu.com/s/1OFsJAt05TA7EWxAivJTDmw |  8pn1  |
 | 从零构建以太坊智能合约到项目实践 | https://pan.baidu.com/s/1LCQjGl3Y11fJ41mMsy_1jg |  a33x  |
 
-## 5、:book:Golang书籍
+## 5.:book:Golang书籍
 
 |          名称           |                      链接                       | 提取码 |
 | :---------------------: | :---------------------------------------------: | :----: |
