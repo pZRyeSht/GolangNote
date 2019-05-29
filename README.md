@@ -1,4 +1,4 @@
-# Golang成长
+# GolangNote
 
 Golang学习的笔记和分享
 
