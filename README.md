@@ -6,7 +6,13 @@ Golang学习的笔记和分享
 
 ## 2.[Golang基础](https://github.com/EscAlice/Golang-/blob/master/Golang基础.md)
 
-1、:+1:
+## 3.Golang面试题
+
+[Golang面试题1](https://github.com/EscAlice/Golang-/blob/master/Golang面试题1.md)
+
+[Golang面试题2](https://github.com/EscAlice/Golang-/blob/master/Golang面试题2.md)
+
+:+1:
 
 ------
 

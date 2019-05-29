@@ -184,7 +184,7 @@ showB
 如果嵌套有两个结构，并且两个结构具有相同的方法，如何执行的？
 ```
 
-```
+```go
 type People struct{}
 
 func (p *People) ShowA() {
@@ -490,7 +490,7 @@ type People interface {
 
 他们的底层结构如下：
 
-```
+```go
 type eface struct {      //空接口
     _type *_type         //类型信息
     data  unsafe.Pointer //指向数据的指针(go语言中特殊的指针类型unsafe.Pointer类似于c语言中的void*)
@@ -689,7 +689,7 @@ sn3与sn1就不是相同的结构体了，不能比较。 还有一点需要注�
 
 可以使用reflect.DeepEqual进行比较
 
-```
+```go
 if reflect.DeepEqual(sn1, sm) {
     fmt.Println("sn1 ==sm")
 }else {
@@ -799,7 +799,7 @@ syntax error: unexpected :=
 
 ### 22.下面函数有什么问题？
 
-```
+```go
 package main
 const cl  = 100
  
@@ -821,7 +821,7 @@ cannot take the address of cl
 
 ### 23.编译执行下面代码会出现什么?
 
-```
+```go
 package main
  
 func main()  {
@@ -844,7 +844,7 @@ goto loop jumps into block starting at
 
 ### 24.编译执行下面代码会出现什么?
 
-```
+```go
 package main
 import "fmt"
  
@@ -870,7 +870,7 @@ cannot use i (type int) as type MyInt1 in assignment
 
 ### 25.编译执行下面代码会出现什么?
 
-```
+```go
 package main
 import "fmt"
  
@@ -910,7 +910,7 @@ User.m2
 
 ### 26.编译执行下面代码会出现什么?
 
-```
+```go
 package main
  
 import "fmt"
@@ -950,7 +950,7 @@ type alias的定义，本质上是一样的类型，只是起了一个别名，�
 
 ### 27.编译执行下面代码会出现什么?
 
-```
+```go
 package main
  
 import (
@@ -991,7 +991,7 @@ func main() {
 
 改为：
 
-```
+```go
 func DoTheThing(reallyDoIt bool) (err error) {
     var result string
     if reallyDoIt {
@@ -1006,7 +1006,7 @@ func DoTheThing(reallyDoIt bool) (err error) {
 
 ### 28.编译执行下面代码会出现什么?
 
-```
+```go
 package main
  
 func test() []func()  {
@@ -1038,7 +1038,7 @@ func main(){
 
 如果想不一样可以改为：
 
-```
+```go
 func test() []func()  {
     var funs []func()
     for i:=0;i<2 ;i++  {
@@ -1053,7 +1053,7 @@ func test() []func()  {
 
 ### 29.编译执行下面代码会出现什么?
 
-```
+```go
 package main
  
 func test(x int) (func(),func())  {
@@ -1083,7 +1083,7 @@ func main()  {
 
 ### 30.编译执行下面代码会出现什么?
 
-```
+```go
 package main
  
 import (
