@@ -2,11 +2,11 @@
 
 Golang学习的笔记和分享
 
-## 1.[Golang随记](https://github.com/EscAlice/Golang-/blob/master/Golang随记.md)
+## 1.:speech_balloon:[Golang随记](https://github.com/EscAlice/Golang-/blob/master/Golang随记.md)​
 
-## 2.[Golang基础](https://github.com/EscAlice/Golang-/blob/master/Golang基础.md)
+## 2.:hammer:[Golang基础](https://github.com/EscAlice/Golang-/blob/master/Golang基础.md)
 
-## 3.Golang面试题
+## 3.:mortar_board:Golang面试题
 
 [Golang面试题1](https://github.com/EscAlice/Golang-/blob/master/Golang面试题1.md)
 
@@ -18,7 +18,7 @@ Golang学习的笔记和分享
 
 ## 联系方式
 
-- 邮箱：EscAlice@foxmail.com
-- QQ: 742642742
-- Github: [@EscAlice](<https://github.com/EscAlice>)
+- :e-mail:邮箱：EscAlice@foxmail.com
+- :telephone_receiver:QQ: 742642742
+- :computer:Github: [@EscAlice](<https://github.com/EscAlice>)
 
