@@ -36,7 +36,7 @@ Golang学习的笔记和分享
 
 测试：
 
-![f5b412718b93a1bef54637edf31cda2](C:\Users\74264\Desktop\f5b412718b93a1bef54637edf31cda2.png)
+<https://github.com/EscAlice/GolangNote/blob/master/img/f5b412718b93a1bef54637edf31cda2.png>
 
 ## 持续更新...
 
