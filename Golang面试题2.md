@@ -122,6 +122,68 @@ D.b = (1 == 2)
 
 解答：bool类型和int类型没法强制转换，go语言的bool类型值只有false和true。
 
+### 9、下面的程序的运行结果是:
+
+```go
+package main
+ func main() {
+     if true {
+        defer fmt.Printf("1")
+     } else {
+         defer fmt.Printf("2")
+     }
+     fmt.Printf("3")
+}
+```
+
+```
+A. 321
+
+B. 32
+
+C. 31
+
+D. 13
+```
+
+答案：C
+
+解答：Go语言的defer（延迟执行）语句，是在函数结束前执行，而如果在函数中有多个defer语句时，会像一个堆栈一样，先进后出，后进先出 。
+
+### 10、关于switch语句，下面说法正确的有:
+
+```
+A . 条件表达式必须为常量或者整数.
+
+B.  单个case中，可以出现多个结果选项.
+
+C.  需要用break来明确退出一个case
+
+D.  只有在case中明确添加fallthrough关键字，才会继续执行紧跟的下一个case
+```
+
+答案：B D
+
+解答：Go 语言改进了 switch 的语法设计，避免人为造成失误。Go 语言的 switch 中的每一个 case 与 case 间是独立的代码块，不需要通过 break 语句跳出当前 case 代码块以避免执行到下一行。 在 Go 语言中 case 是一个独立的代码块，执行完毕后不会像C语言那样紧接着下一个 case 执行。但是为了兼容一些移植代码，依然加入了 fallthrough 关键字来实现这一功能:
+
+```go
+var s = "hello"
+switch {
+case s == "hello":
+    fmt.Println("hello")
+    fallthrough
+case s != "world":
+    fmt.Println("world")
+}
+```
+
+结果：
+
+```
+hello
+world
+```
+
 
 
 ## 持续更新...
