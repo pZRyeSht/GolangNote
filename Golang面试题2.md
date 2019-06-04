@@ -184,6 +184,40 @@ hello
 world
 ```
 
+11、[多选题]golang中的引用类型包括（）
 
+```
+A.数组切片
+B.map
+C.channel
+D.interface
+```
+
+答案：A B C D
+解答：golang中分为值类型和引用类型
+
+值类型分别有：int系列、float系列、bool、string、数组和结构体
+
+引用类型有：指针、slice切片、管道channel、接口interface、map、函数等
+
+值类型的特点是：变量直接存储值，内存通常在栈中分配
+
+引用类型的特点是：变量存储的是一个地址，这个地址对应的空间里才是真正存储的值，内存通常在堆中分配。
+
+12、关于select机制，下面说法正确的是（）
+
+```
+A.select机制用来处理异步IO问题
+
+B.select机制最大的一条限制就是每个case语句里必须是一个IO操作
+
+C.golang在语言级别支持select关键字
+
+D.select关键字的用法与switch语句非常类似，后面要带判断条件
+```
+
+答案：A B C
+
+解答：golang 的 select 就是监听 IO 操作，当 IO 操作发生时，触发相应的动作。  在执行select语句的时候，运行时系统会自上而下地判断每个case中的发送或接收操作是否可以被立即执行(立即执行：意思是当前Goroutine不会因此操作而被阻塞) 。  select的用法与switch非常类似，由select开始一个新的选择块，每个选择条件由case语句来描述。与switch语句可以选择任何可使用相等比较的条件相比，select有比较多的限制，其中最大的一条限制就是每个case语句里必须是一个IO操作，确切的说，应该是一个面向channel的IO操作。 
 
 ## 持续更新...
