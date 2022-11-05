@@ -15,14 +15,13 @@ import (
 )
  
 func main() {
-    defer_call()
+    deferCall()
 }
  
-func defer_call() {
+func deferCall() {
     defer func() { fmt.Println("打印前") }()
     defer func() { fmt.Println("打印中") }()
     defer func() { fmt.Println("打印后") }()
- 
     panic("触发异常")
 }
 ```
@@ -47,7 +46,7 @@ type student struct {
     Age  int
 }
  
-func pase_student() {
+func main() {
     m := make(map[string]*student)
     stus := []student{
         {Name: "zhou", Age: 24},
@@ -74,7 +73,7 @@ for _, stu := range stus {
 也是不可行的。 大家可以试试打印出来：
 
 ```go
-func pase_student() {
+func main() {
     m := make(map[string]*student)
     stus := []student{
         {Name: "zhou", Age: 24},
