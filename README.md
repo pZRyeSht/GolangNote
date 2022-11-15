@@ -12,31 +12,50 @@ Golang学习的笔记和分享
 
 [Golang面试题2](https://github.com/EscAlice/Golang-/blob/master/Golang面试题2.md)
 
-## 4.:cd:Golang学习视频
-
-|               名称               |                      链接                       | 提取码 |
-| :------------------------------: | :---------------------------------------------: | :----: |
-|     Go语言实战流媒体视频网站     | https://pan.baidu.com/s/12lgJYbBezOvMTyWS9ZicvA |  e3gg  |
-| Go语言企业级电商秒杀系统实战教程 | https://pan.baidu.com/s/1Z8lbzElCgtdSDrH3YahjNQ |  8r01  |
-|  区块链开发之GO语言从入门到高级  | https://pan.baidu.com/s/1Sj2UZnZGGtldUOLAm-TEPg |  pbfv  |
-|  Google资深工程师深度讲解Go语言  | https://pan.baidu.com/s/1kvqVtlqiA8_KWbhJ4M0gKg |  260b  |
-|     尚硅谷Go语言核心编程教程     | https://pan.baidu.com/s/1OFsJAt05TA7EWxAivJTDmw |  8pn1  |
-| 从零构建以太坊智能合约到项目实践 | https://pan.baidu.com/s/1LCQjGl3Y11fJ41mMsy_1jg |  a33x  |
-
-## 5.:book:Golang书籍
+## 4.:book:Golang书籍
 
 |          名称           |                      链接                       | 提取码 |
 | :---------------------: | :---------------------------------------------: | :----: |
-|       Go语言圣经        | https://pan.baidu.com/s/1QWIL0IDaHcCvzkpd0MyXhw |  nfrm  |
-|    程序员的思维修练     | https://pan.baidu.com/s/1JGB4dRsCz4gr76hCfxkb7Q |  x446  |
-| Go并发编程实战（第2版） | https://pan.baidu.com/s/1l5Bf3tO94HnMHe5QqLymiQ |  ihpu  |
-|     Cloud Native Go     | https://pan.baidu.com/s/1jmmHZ_G7MahX9bFRHbpMYQ |  p1cp  |
-|       Go Web编程        | https://pan.baidu.com/s/1RCu9SB-Hla3SldWuewLcgw |  j50l  |
-|     Docker源码分析      | https://pan.baidu.com/s/1m2FCeuJlSo2Z2hF3wujpfw |  epf0  |
+| Go语言圣经 | https://pan.baidu.com/s/1QWIL0IDaHcCvzkpd0MyXhw | nfrm |
+| 程序员的思维修练 | https://pan.baidu.com/s/1JGB4dRsCz4gr76hCfxkb7Q | x446 |
+| Go并发编程实战（第2版） | https://pan.baidu.com/s/1l5Bf3tO94HnMHe5QqLymiQ | ihpu |
+| Cloud Native Go | https://pan.baidu.com/s/1jmmHZ_G7MahX9bFRHbpMYQ | p1cp |
+|  Go Web编程 | https://pan.baidu.com/s/1RCu9SB-Hla3SldWuewLcgw | j50l |
+| Docker源码分析 | https://pan.baidu.com/s/1m2FCeuJlSo2Z2hF3wujpfw | epf0 |
+| Go 语言高级编程 | https://pan.baidu.com/s/1qomlMn5X7c3o518WpDT3dA | rvft |
+| Go 源码剖析 | https://pan.baidu.com/s/1Bab71gyimDXOsy69RGMvZg | ymv3 |
+| Go 语言实战 | https://pan.baidu.com/s/1mgENwvhsBDSQQlE24l3CPw | s1pd |
+| Go 入门指南 | https://pan.baidu.com/s/1loEKw0XxqY4R5_k0OZZn2A | ppav |
+| Go 语言从入门到进阶实战 | https://pan.baidu.com/s/1Vil1zISS3s-0ITevm03C4g | zwpu |
+| Cloud Native Go | https://pan.baidu.com/s/1CPI8v4dfyswh-teS0ueMSQ | 479s |
 
-测试：![](https://github.com/EscAlice/GolangNote/blob/master/img/f5b412718b93a1bef54637edf31cda2.png)
+## 5.:book:相关技术书籍
+
+|          名称           |                      链接                       | 提取码 |
+| :---------------------: | :---------------------------------------------: | :----: |
+| 计算机网络 | https://pan.baidu.com/s/1P7Fyy4VEM-wNW2hXLy55vg | ua85 |
+| MySQL5.7从入门到精通 | https://pan.baidu.com/s/1Zt9AXZbZqIe2M4cM1-ocCg | p8fn |
+| 大话数据结构 | https://pan.baidu.com/s/1stklJplEfPM4yzipwrJ4Mg | e85c |
+| UNIX网络编程卷1：套接字联网API（第3版 | https://pan.baidu.com/s/1noWK3v56u1KwSqiuWI6DtQ | m8ey |
+| 图解HTTP | https://pan.baidu.com/s/11hazM0lPvK1ru7aTt-8fyA | g59u |
+| 深入理解计算机系统 | https://pan.baidu.com/s/1qTPQwgoqzOIOLIxlTYi8bQ | ci2p |
+| Redis设计与实现 | https://pan.baidu.com/s/1umdX15tcpIZCHcPM1SJdCw | x22b |
+| UNIX环境高级编程 | https://pan.baidu.com/s/1VDP4bHmLYarAMZSUXWDPnw | qt8v |
+| 计算机操作系统 | https://pan.baidu.com/s/191FmHRdetj8tTP3YWKfCPQ | 9vf1 |
+| 数据密集型应用系统设计 | https://pan.baidu.com/s/13U-3EyxyXhvrDC6Nrsk3Dw | dx7b |
+| 高性能mysql第三版 | https://pan.baidu.com/s/1lVyq82d1feknJGNRu9qBig | jed1 |
+
+## 6.:book:GopherChina
+|          名称           |                      链接                       | 提取码 |
+| :---------------------: | :---------------------------------------------: | :----: |
+| GopherChina2018 | https://pan.baidu.com/s/1o4iEtEVDcdTSZrzHLuhuKg | vmea |
+| GopherChina2017 | https://pan.baidu.com/s/1K3OzjiqNvrTIk466aP5fQg | smaq |
+
+
+![](https://github.com/EscAlice/GolangNote/blob/master/img/f5b412718b93a1bef54637edf31cda2.png)
 
 ## 持续更新...
+以上均整理自网上资源，请勿用于商业用途。
 
 ------
 
